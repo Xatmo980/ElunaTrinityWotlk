@@ -22,5 +22,4 @@
 // void Add${NameOfDirectory}Scripts()
 void AddCustomScripts()
 {
-	 AddSC_World_Chat();
 }
